@@ -1,0 +1,3 @@
+x = "SoftServe"
+y = ""
+puts "One of the strings is empty" if x.empty? or  y.empty?

@@ -1,0 +1,3 @@
+"Petya"
+KOlya,
+Vasya, 0

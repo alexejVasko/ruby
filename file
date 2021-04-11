@@ -1,0 +1,12 @@
+
+File.open("rostok.txt", "r") do |file|
+
+puts file.readline()
+puts file.readline()
+puts file.readlines()[0]
+
+end
+
+File.open("rostok.txt", "a") do |file|
+  file.write("\nAlexej")
+end

@@ -1,0 +1,5 @@
+puts "Enter Your name: "
+name = gets.chomp()
+puts "Enter Your age: "
+age = gets.chomp()
+puts ("Hello " + name + ", You are " + age)
